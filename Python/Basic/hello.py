@@ -1,1 +1,1 @@
-python print("hello,Computer Science!")
+print("hello,Computer Science!")
